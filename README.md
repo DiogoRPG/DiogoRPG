@@ -1,11 +1,10 @@
 
 
-<h2 align="center">Hello world ❤️ Diogo here ;)</h2>&nbsp;
+<h2 align="center">Hello world 👨🏻‍💻 Diogo here ;)</h2>&nbsp;
 
 <p align="center")>Software engineer focused on front-end web and mobile development, passionate about solving complex problems through technology. I enjoy balancing my career between technical and managerial skills, which is why I gained experience coordinating projects, continuously analyzing and improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
 
-
-
+<p align="center")>Dear recruiter, This is my new GitHub profile. I lost access to my official profile, hence there are few projects here. If you have any questions, please feel free to contact me. Thank you!</p>&nbsp;
 
 ## My Skills
 
